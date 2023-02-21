@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Orang
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
+- what
 
 <!---
 Soefati/Soefati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
